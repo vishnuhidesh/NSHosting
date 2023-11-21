@@ -3,7 +3,7 @@
 }
 
 .navbar{
-    background-color: black;
+    background-color: #121212;
     border-bottom: 1px solid aqua;
 }
 
@@ -91,7 +91,7 @@ body{
     align-items: center;
     justify-content: center;
     /* display: inline; */
-    background: black;
+    background: #121212;
     
 }
 .null{
@@ -139,7 +139,7 @@ body{
 }
 
 .body2{
-    background: black;
+    background: #121212;
     height: auto;
     /* border: 2px solid aqua; */
 }
@@ -178,7 +178,7 @@ body{
 }
 
 .body3{
-    background: black;
+    background: #121212;
     height: auto;
 }
 
@@ -200,7 +200,7 @@ body{
 }
 
 .body4{
-    background: black;
+    background: #121212;
     height: auto;
 }
 
@@ -236,7 +236,7 @@ body{
 }
 
 .foot{
-    background: #000;
+    background: #121212;
 }
 
 /* .divv{
