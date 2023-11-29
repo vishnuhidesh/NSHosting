@@ -117,6 +117,21 @@
 
 /* mobile or only mobile */
 @media (max-width: 767px) {
+
+
+  .kbmgct{
+    font-size: 22px;
+  }
+
+  .pgdcs{
+    font-size: 16px;
+  }
+
+  .dce{
+    font-size: 14px;
+    font-weight: bold;
+  }
+
   .section-title {
     font-size: 22px;
   }
@@ -127,7 +142,7 @@
     padding: 100px 0;
   }
   #hero-area .contents .head-title {
-    font-size: 20px;
+    font-size: 24px;
     margin-bottom: 10px;
   }
   #hero-area .contents .btn-date {
@@ -141,6 +156,7 @@
   }
   #hero-area .contents .banner-desc {
     padding: 0 10px;
+    font-size: 18px;
   }
   #information-bar ul {
     text-align: left;
