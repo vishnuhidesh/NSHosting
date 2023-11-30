@@ -2454,3 +2454,7 @@ footer {
   font-weight: bolder;
   
 }
+
+/* body::-webkit-scrollbar {
+  display: none;
+} */
